@@ -1,6 +1,6 @@
 # 67-250: The Information Systems Milieux
 
-* Web Development Project
+## Web Development Project
 
 For my Information Systems Milieux class, we were assigned a Web Development Project. We had to create a mock website that featured Prantl's Bakery, a bakery located in Pittsburgh. 
 
