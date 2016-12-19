@@ -1,5 +1,5 @@
 # Web-Development-Project
-asdfasdf
+
 For my Information Systems Milieux class, we were assigned a Web Development Project. We had to create a mock website that featured Prantl's Bakery, a bakery located in Pittsburgh. 
 
 We were tasked with implementing a fully functional website that served as an alternative to the current Prantl's site. We had to follow certain criteria such as having an HTML table, a contact inquiry form, interactive pictures, and more. 
